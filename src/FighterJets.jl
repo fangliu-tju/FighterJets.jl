@@ -1,6 +1,6 @@
 module FighterJets
 
-export FightJet, go!
+export FighterJet, go!
 
 using Vehicle
 
