@@ -1,0 +1,4 @@
+name = "FighterJets"
+uuid = "f793a799-5848-49e3-8c33-97bd40e13be7"
+authors = ["Fang Liu <fangliu@tju.edu.cn>"]
+version = "0.1.0"
