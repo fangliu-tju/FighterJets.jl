@@ -1,5 +1,9 @@
 module FighterJets
 
+export FightJet, go!
+
+using Vehicle
+
 "FighterJet is a very fast vehicle with powerful weapons."
 mutable struct FighterJet
 

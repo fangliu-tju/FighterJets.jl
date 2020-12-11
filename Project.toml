@@ -2,3 +2,6 @@ name = "FighterJets"
 uuid = "f793a799-5848-49e3-8c33-97bd40e13be7"
 authors = ["Fang Liu <fangliu@tju.edu.cn>"]
 version = "0.1.0"
+
+[deps]
+Vehicle = "5a9d363a-bf56-4634-902b-88989eca8d0f"
